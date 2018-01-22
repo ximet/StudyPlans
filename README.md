@@ -3,6 +3,10 @@ Study plans for programmer
 
 In this repository, just my opinion 'how better learn new technology?'.
 
+# List
+## Programming language
+
+- [JavaScript](https://github.com/ximet/StudyPlans/blob/master/language/javascript.md)
 
 # Contributing
 
