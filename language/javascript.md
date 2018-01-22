@@ -8,3 +8,5 @@
 5. Functions.
 6. Function Expression vs Function Declaration.
 7. Understanding recursion expression.
+
+## Data Structures - extended learning with data types
