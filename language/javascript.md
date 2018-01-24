@@ -17,3 +17,5 @@
 5. Pseudo-array 'arguments'
 6. Date Time structure
 7. Set, Map, WeakMap, WeakSet
+8. ArrayBuffer
+9. SharedArrayBuffer
