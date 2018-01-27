@@ -29,11 +29,11 @@
   6. Arrow functions
   
   ### Article: 
-  1. - [You dont know JS (Scope and Closures)](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
-  2. - [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 
-  3. - [Variables and scoping in ES6](http://2ality.com/2015/02/es6-scoping.html)
-  3. - [Understanding scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
+  1. [You dont know JS (Scope and Closures)](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+  2. [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 
+  3. [Variables and scoping in ES6](http://2ality.com/2015/02/es6-scoping.html)
+  3. [Understanding scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
   
   ### Documentation: 
-  1. - [The Global Object](https://www.ecma-international.org/ecma-262/8.0/#sec-global-object)
+  1. [The Global Object](https://www.ecma-international.org/ecma-262/8.0/#sec-global-object)
 
