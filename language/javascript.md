@@ -19,3 +19,11 @@
 7. Set, Map, WeakMap, WeakSet.
 8. ArrayBuffer.
 9. SharedArrayBuffer.
+
+## Scope and Closures 
+1. Global object.
+2. Understanding scope.
+3. Lexical environment
+4. Closures (Funarg problems)
+5. Static and dynamic lexical scope.
+6. Arrow functions
