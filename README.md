@@ -3,6 +3,8 @@
 # StudyPlans
 Study plans for programmer
 
+![learn something new every day!](http://i.vimeocdn.com/video/373917193_1280x720.jpg)
+
 It repository directed on the people who want to learn new technology. I guess the best way in something new is a plan that can be followed. It's open source project, which help with that.
 
 # List
