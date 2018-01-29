@@ -79,4 +79,15 @@
   3. Promise
   4. Generator
   5. Module
+  
+## Functional programming 
+  1. More information about functions .map, .filter, .reduce.
+  2. Pure functions
+  3. Immutability
+  4. Function composition
+  5. High-order function
+  6. Recursion
+  
+  ### Article
+  1. [Functional JavaScript](https://opensource.com/article/17/6/functional-javascript)
 
