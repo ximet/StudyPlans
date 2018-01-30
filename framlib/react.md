@@ -35,3 +35,12 @@
    5. Higher-Order components (HOC)
    5. Accessibility
    6. Optimizing perfomance 
+
+## Side libraries
+
+   ### Redux 
+      1. State
+      2. Actions.
+      3. Reducers.
+      4. Middlewares.
+      5. Advance understanding <Provider />
