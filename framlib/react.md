@@ -38,9 +38,9 @@
 
 ## Side libraries
 
-   ### Redux 
-     1. State
-     2. Actions.
-     3. Reducers.
-     4. Middlewares.
-     5. Advance understanding <Provider />
+ ### Redux 
+ 1. State
+ 2. Actions.
+ 3. Reducers.
+ 4. Middlewares.
+ 5. Advance understanding <Provider />
