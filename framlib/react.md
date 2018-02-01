@@ -44,3 +44,8 @@
  3. Reducers.
  4. Middlewares.
  5. Advance understanding <Provider />
+ 
+ ### Immutable
+ 1. Immutability
+ 2. Structure 
+ 3. Transfer from JS object and back
