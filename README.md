@@ -11,6 +11,7 @@ It repository directed on the people who want to learn new technology. I guess t
 ## Programming language
 
 - [JavaScript](https://github.com/ximet/StudyPlans/blob/master/language/javascript.md)
+- [Haskell](https://github.com/ximet/StudyPlans/blob/master/language/haskell.md)
 
 ## Frameworks and libs
 
