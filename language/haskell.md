@@ -11,4 +11,9 @@
    ### Documentation
    1. https://wiki.haskell.org/Means_of_expression
    2. https://wiki.haskell.org/Function
-   3. 
+
+## Main information
+   1. Pure function
+   2. Dirty function 
+   3. Input/Output
+   4. Pattern matching
