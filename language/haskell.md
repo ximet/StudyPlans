@@ -8,11 +8,12 @@
    5. Strong Typing
    6. Class Types
    7. Operators: increment\decrement
-   8. Operators: if, where, let-in
+   8. If\case constructs and where, let-in 
 
    ### Documentation
-   1. https://wiki.haskell.org/Means_of_expression
-   2. https://wiki.haskell.org/Function
+   1. [Means of expression](https://wiki.haskell.org/Means_of_expression)
+   2. [Functions](https://wiki.haskell.org/Function)
+   3. [Control Structures(if, case)](https://en.wikibooks.org/wiki/Haskell/Control_structures)
 
 ## Main information
    1. Pure function
