@@ -8,7 +8,7 @@
    5. Strong Typing
    6. Class Types
    7. Operators: increment\decrement
-   8. If\case constructs and where, let-in 
+   8. If\case expressions and where, let-in 
 
    ### Documentation
    1. [Means of expression](https://wiki.haskell.org/Means_of_expression)
