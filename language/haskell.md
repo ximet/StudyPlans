@@ -7,6 +7,7 @@
    4. Static Type Checking
    5. Strong Typing
    6. Class Types
+   7. Operators: if, where, let-in
    
    ### Documentation
    1. https://wiki.haskell.org/Means_of_expression
