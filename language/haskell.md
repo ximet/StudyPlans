@@ -1,6 +1,6 @@
 # Study Plan: Haskell
 
-## Basic information
+## Basic information:
    1. Expression
    2. Function
    3. Types
@@ -17,7 +17,7 @@
    2. [Functions](https://wiki.haskell.org/Function)
    3. [Control Structures(if, case)](https://en.wikibooks.org/wiki/Haskell/Control_structures)
 
-## Main information
+## Main information:
    1. Pure function
    2. Dirty function 
    3. Input/Output
@@ -30,4 +30,5 @@
    10. Higher Order Functions
    11. Import
    
-   ... coming soon
+### Advanced information:
+   1. Weak Head Normal Form (WHNF) and Normal Form
