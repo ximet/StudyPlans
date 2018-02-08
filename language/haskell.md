@@ -9,6 +9,7 @@
    6. Class Types
    7. Operators: increment\decrement
    8. If\case expressions and where, let-in 
+   9. Function application and composition
 
    ### Documentation
    1. [Means of expression](https://wiki.haskell.org/Means_of_expression)
@@ -23,5 +24,7 @@
    5. Type: List 
    6. Type: Tuple
    7. Lambda calculus
+   8. Polymoprhism
+   9. Currying
    
    ... coming soon
