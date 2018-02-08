@@ -10,6 +10,7 @@
    7. Operators: increment\decrement
    8. If\case expressions and where, let-in 
    9. Function application and composition
+   10. Hackage repositories Haskell-library
 
    ### Documentation
    1. [Means of expression](https://wiki.haskell.org/Means_of_expression)
@@ -26,5 +27,7 @@
    7. Lambda calculus
    8. Polymoprhism
    9. Currying
+   10. Higher Order Functions
+   11. Import
    
    ... coming soon
