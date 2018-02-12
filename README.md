@@ -17,7 +17,7 @@ It repository directed on the people who want to learn new technology. I guess t
 
 - [React](https://github.com/ximet/StudyPlans/blob/master/framlib/react.md)
 - [ReactNative](https://github.com/ximet/StudyPlans/blob/master/framlib/reactnative.md)
-
+- [Ember](https://github.com/ximet/StudyPlans/blob/master/framlib/ember.md)
 
 # Contributing
 
