@@ -44,6 +44,8 @@
  3. Reducers.
  4. Middlewares.
  5. Advance understanding <Provider />
+ 6. Advance understanding connect
+ 7. Advance understanding createStore
  
  ### Immutable
  1. Immutability
