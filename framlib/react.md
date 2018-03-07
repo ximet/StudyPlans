@@ -47,7 +47,14 @@
  6. Advance understanding connect
  7. Advance understanding createStore
  
+ ### React-Router
+ 1. Route
+ 2. Router 
+ 3. Switch 
+ 
  ### Immutable
  1. Immutability
  2. Structure 
  3. Transfer from JS object and back
+ 
+ 
