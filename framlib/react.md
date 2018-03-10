@@ -9,6 +9,11 @@
    6. lifecycle component
    7. Introduction to Error 
    
+   ### Article: 
+   1. [React Props\State](https://medium.freecodecamp.org/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492)
+   2. [LifeCycle](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+   3. [Patterns: work with component](https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+   
    ### Documentation: 
    1. [Introduction JSX](https://reactjs.org/docs/introducing-jsx.html)
    2. [Components and props](https://reactjs.org/docs/components-and-props.html)
@@ -25,6 +30,13 @@
    8. Typechecking.
    9. Refs.
    10. Fragments.
+   11. Context.
+   12. AJAX
+   
+   ### Article\Course: 
+   1. [Context](https://www.youtube.com/watch?v=lxq938kqIss)
+   2. [AJAX](https://daveceddia.com/ajax-requests-in-react/)
+   
    
    
 ## Advance information
@@ -46,6 +58,14 @@
  5. Advance understanding <Provider />
  6. Advance understanding connect
  7. Advance understanding createStore
+ 
+ #### Article\Course: 
+   1. [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+   2. [Redux Best Practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
+   3. [Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+   4. [Ecosystem Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)
+   5. [Async action in Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f)
+   6. [Custom Middleware](https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb)
  
  ### React-Router
  1. Route
