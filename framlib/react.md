@@ -9,7 +9,7 @@
    6. lifecycle component
    7. Introduction to Error 
    
-   ### Article: 
+   ### Article\Course:
    1. [React Props\State](https://medium.freecodecamp.org/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492)
    2. [LifeCycle](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
    3. [Patterns: work with component](https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
@@ -67,10 +67,17 @@
    5. [Async action in Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f)
    6. [Custom Middleware](https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb)
  
- ### React-Router
+ ### ReactRouter
  1. Route
  2. Router 
  3. Switch 
+ 4. BrowserHistory
+ 
+ #### Article\Course: 
+   1. [BrowserHistory](https://www.youtube.com/watch?v=cdUyEou0LHg)
+   2. [Basic Information about ReactRouter](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb)
+   3. [Custom Routing](https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997)
+   4. [Build your own ReactRouter v4](https://tylermcginnis.com/build-your-own-react-router-v4/)
  
  ### Immutable
  1. Immutability
