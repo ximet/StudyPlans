@@ -72,6 +72,7 @@
  2. Router 
  3. Switch 
  4. BrowserHistory
+ 5. Custom Router
  
  #### Article\Course: 
    1. [BrowserHistory](https://www.youtube.com/watch?v=cdUyEou0LHg)
