@@ -10,4 +10,4 @@
 
 
 ## Main information
- 1.Principles
+ 1. Principles
