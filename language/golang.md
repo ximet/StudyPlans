@@ -7,3 +7,7 @@
  3. Static Typing
  4. Garbage Collector.
  5. Variable and declarations 
+
+
+## Main information
+ 1.Principles
